@@ -1,4 +1,4 @@
-[Open notebook in Colab](https://githubtocolab.com/basujindal/stats/blob/main/Linear_Regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/basujindal/stats/blob/main/Linear_Regression.ipynb)
 
 # stats
 ## Linear_Regression.ipynb:
