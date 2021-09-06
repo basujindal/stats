@@ -1,3 +1,5 @@
+[Open notebook in Colab](https://githubtocolab.com/basujindal/stats/blob/main/Linear_Regression.ipynb)
+
 # stats
 ## Linear_Regression.ipynb:
 Google colab/Jupyter notebook for linear regression.  
